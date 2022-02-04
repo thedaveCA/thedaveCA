@@ -2,7 +2,7 @@
 
 I don't know what I'm doing, which is great, there's so much to learn! Can you think of a better place to start?
 
-Digging into C#, it's been a bit of an adventure so far! While I'm not necessarily the n00biest n00b that ever did code, I'm feeling a bit like it. That's okay. Ultimately my goal is to become a passably competent C# developer, starting on my own although I am open to education at some point too. 
+Digging into C#, it's been a bit of an adventure so far! While I'm not necessarily the n00biest n00b that ever did code, I'm feeling a bit like it. That's okay. Ultimately my goal is to become a passably competent C# developer. I'm starting on my own although I am open to education at some point too, but I'd like to find something in the real world which just isn't how things work in the COVID era. Oh well.
 
 Also a total Github n00b, but hey, I'm using it instead of despising it, so that is a start, I think? I get the point of version control, I love the idea of branches, but something just rubs me the wrong way. On the other hand, it would have saved my butt if I'd been using it a decade ago, so here we go.
 
