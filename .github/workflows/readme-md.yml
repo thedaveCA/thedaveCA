@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - run: |
-          printf "---\nlayout: default\npermalink: /about:me/\n---\n" | cat - README.md thedave.dev/README.md
+          printf -- "---\nlayout: default\npermalink: /about:me/\n---\n" | cat - README.md thedave.dev/README.md
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
