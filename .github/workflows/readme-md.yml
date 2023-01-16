@@ -1,8 +1,10 @@
 name: readme-md
 on:
+  workflow_dispatch:
   push:
     branches:
       - dev
+      - home
     paths:
       - 'README.md'
 permissions: write-all
