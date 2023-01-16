@@ -1,0 +1,20 @@
+name: readme-md
+on:
+  push:
+    branches:
+      - dev
+    paths:
+      - 'README.md'
+permissions: write-all
+jobs:
+  copy-and-add-header:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - run: |
+          printf ---\nlayout: default\npermalink: /about:me/\n---\n|cat - README.md thedave.dev/README.md
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "generated"
+          git push
