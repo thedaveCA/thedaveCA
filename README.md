@@ -4,7 +4,7 @@ I don't know what I'm doing, which is great, there's so much to learn! Can you t
 
 Digging into C#, it's been a bit of an adventure! Occasionally frustrating, but that's not entirely bad either. I'm not necessarily the n00biest n00b that ever did code, I'm feeling a bit like it. That's okay. Ultimately my goal is to become a passably competent C# developer. I'm starting on my own although I am open to education at some point too, but I wouldn't be against finding something in the real world. Hopefully.
 
-Also a total Github n00b, but hey, I'm using it instead of despising it, so that is a start, I think? I get the point of version control, I love the idea of branches, but something just rubs me the wrong way about git, the tooling around it, the terminology, everything. On the other hand, it would have saved my butt if I'd been using it a decade ago, so here we go.
+Also a total Github n00b, but hey, I'm using it instead of despising it, so that is a start, I think? I get the point of version control, I love the idea of branches, but something just rubs me the wrong way about git. The tooling around it, the terminology, it is so crazy powerful and yet much of it just seems obtusely hidden. On the other hand, it would have saved my butt if I'd been using it a decade ago, so time to learn!
 
 ## What's next?
 
