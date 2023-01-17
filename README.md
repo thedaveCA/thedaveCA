@@ -2,7 +2,7 @@
 
 I don't know what I'm doing, which is great, there's so much to learn! Can you think of a better place to start?
 
-Digging into C#, it's been a bit of an adventure so far! While I'm not necessarily the n00biest n00b that ever did code, I'm feeling a bit like it. That's okay. Ultimately my goal is to become a passably competent C# developer. I'm starting on my own although I am open to education at some point too, but I'd like to find something in the real world which just isn't how things work in the COVID era. Oh well.
+Digging into C#, it's been a bit of an adventure! Occasionally frustrating, but that's not entirely bad either. I'm not necessarily the n00biest n00b that ever did code, I'm feeling a bit like it. That's okay. Ultimately my goal is to become a passably competent C# developer. I'm starting on my own although I am open to education at some point too, but I wouldn't be against finding something in the real world. Hopefully.
 
 Also a total Github n00b, but hey, I'm using it instead of despising it, so that is a start, I think? I get the point of version control, I love the idea of branches, but something just rubs me the wrong way. On the other hand, it would have saved my butt if I'd been using it a decade ago, so here we go.
 
@@ -14,12 +14,11 @@ And looking at some stuff on NuGet, trying to figure out how some libraries work
 
 Oh and I might look at a bunch of old batch-type scripts that I could rewrite. Heck, maybe even some Linux shell scripts that I wrote and use regularly could pack up and go away?
 
-Plus I'm looking for any bugs I fixed in code belonging to other projects that didn't get committed, and I'll submit a proper PR. I typically did not do so before simply because I was not confident about my skills, nor was I familiar enough with Github. 
+Plus I'm looking for any bugs I fixed in code belonging to other projects that didn't get committed, and I'll submit a proper PR. Or e-mail the developer. Or just feel self-satified. I typically did not do so before simply because I was not confident about my skills, nor was I familiar enough with Github.
 
 And in fact, I just logged my first issue including a PR to a public project. Woohoo, at least if it gets acceptted.
 
-This is such a ✨ _special_ ✨ repository!
-
+This is a ✨ *special* ✨ repository!
 
 <!--
 Here are some ideas to get you started:
